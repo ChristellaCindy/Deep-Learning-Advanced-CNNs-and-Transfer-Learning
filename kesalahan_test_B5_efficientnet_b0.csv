@@ -1,0 +1,7 @@
+file,label_asli,prediksi,confidence
+/content/drive/MyDrive/Colab Notebooks/Tugas Deep Learning/oxford-iiit-pet/images/Bengal_143.jpg,Bengal,Abyssinian,0.8094687461853027
+/content/drive/MyDrive/Colab Notebooks/Tugas Deep Learning/oxford-iiit-pet/images/Ragdoll_250.jpg,Ragdoll,Maine Coon,0.7494449019432068
+/content/drive/MyDrive/Colab Notebooks/Tugas Deep Learning/oxford-iiit-pet/images/Maine_Coon_271.jpg,Maine Coon,Bengal,0.5045892596244812
+/content/drive/MyDrive/Colab Notebooks/Tugas Deep Learning/oxford-iiit-pet/images/Bengal_68.jpg,Bengal,Maine Coon,0.8435332775115967
+/content/drive/MyDrive/Colab Notebooks/Tugas Deep Learning/oxford-iiit-pet/images/english_setter_176.jpg,English Setter,English Cocker Spaniel,0.6203235387802124
+/content/drive/MyDrive/Colab Notebooks/Tugas Deep Learning/oxford-iiit-pet/images/Abyssinian_215.jpg,Abyssinian,Bengal,0.4129991829395294
